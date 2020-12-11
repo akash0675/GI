@@ -1,0 +1,5 @@
+module.exports = {
+  BASIC_SAVINGS: 'BASIC_SAVINGS',
+  CURRENT: 'CURRENT',
+  SAVINGS: 'SAVINGS'
+}
